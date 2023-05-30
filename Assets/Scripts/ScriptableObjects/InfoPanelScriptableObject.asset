@@ -1,0 +1,180 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63bcf82ecc85d48c3937b57b8394d497, type: 3}
+  m_Name: InfoPanelScriptableObject
+  m_EditorClassIdentifier: 
+  InfoPanelItems:
+  - MainImage: {fileID: 21300000, guid: 9c49fceaf759946f2a9bd802889a0087, type: 3}
+    Captions: "Bockwindm\xFChlen wie die in Werder (Havel) gibt es schon im Mittelalter"
+    RightWrongTitle: Richtig!
+    Title: "M\xFChle"
+    Description: "Eine M\xFChle mahlt das auf den Feldern vor der Stadt geerntete
+      Getreide zu Mehl. Der Geschmack des Mehls wird durch die Kr\xE4uter bestimmt,
+      die zwischen den Korn\xE4hren wachsen und mit vermahlen werden. Das Mehl wird
+      in der Stadt von den B\xE4ckern zu Brot verbacken. Die B\xE4cker geh\xF6ren
+      zu den wohlhabenderen B\xFCrgern, weil sie meist auch das Braurecht haben und
+      somit neben Brot auch Bier verkaufen k\xF6nnen. Das Bierbrauen ist Frauensache."
+  - MainImage: {fileID: 21300000, guid: 9b04e3e0858324482891123b44621bb5, type: 3}
+    Captions: Templin, Berliner Tor
+    RightWrongTitle: Richtig!
+    Title: Stadttor
+    Description: "Im Mittelalter sind St\xE4dte von hohen Mauern umgeben. Nur durch
+      die Stadttore kann man hinein oder hinaus. Nachts sind die Tore geschlossen.
+      Tags\xFCber kontrollieren Wachen, wer in die Stadt hineindarf. Die Stadtmauer
+      bietet den Menschen also Schutz. Sie zeigt auch an, bis wohin das Stadtrecht
+      gilt. Die meisten der heute erhaltenen Stadttore und Mauern stammen aus dem
+      18. Jahrhundert. Reste der mittelalterlichen Stadtbefestigung stehen zum Beispiel
+      noch in Brandenburg an der Havel (Rathenower Turm)."
+  - MainImage: {fileID: 21300000, guid: 37a0e19a5651d41d8af17801b284cce0, type: 3}
+    Captions: "Der mit Gr\xFCndung der Stadt entstandene \u201EJudenhof\u201C in
+      Perleberg ist heute Kulturzentrum"
+    RightWrongTitle: Richtig!
+    Title: Judenhof
+    Description: "Da Christinnen und Christen der Geldverleih untersagt ist, wird
+      diese Nische von Juden und J\xFCdinnen besetzt, denen wiederum der Zugang zu
+      Handwerksberufen verwehrt ist. Die j\xFCdische Gemeinschaft st\xE4rkt so den
+      Fernhandel und das Finanzwesen der Stadt. Juden und J\xFCdinnen d\xFCrfen nur
+      in bestimmten Winkeln der Stadt wohnen. Dort befinden sich h\xE4ufig auch die
+      Synagoge und das rituelle Bad, die Mikwe, die Zugang zu flie\xDFendem Wasser
+      haben muss. Ein Beispiel f\xFCr j\xFCdisches Leben im Mittelalter ist die Stadt
+      Perleberg."
+  - MainImage: {fileID: 21300000, guid: 1d26a01c41ea04bc8b1dab39a8fc5901, type: 3}
+    Captions: "Webstuhl, fr\xFChes 16. Jahrhundert"
+    RightWrongTitle: Richtig!
+    Title: "Tuchmacherstra\xDFe"
+    Description: "Die Tuchmacher geh\xF6ren zu den wohlhabenden und einflussreichen
+      B\xFCrgern der Stadt und wohnen daher in der N\xE4he des Marktplatzes. Ein
+      Tuchmacher webt in seiner Werkstatt auf einem Webstuhl Stoffe aus Wolle, um
+      sie zu verkaufen. Seine Ehefrau und die Kinder helfen ihm dabei. Aus dem Stoff
+      werden Decken, T\xFCcher und Kleidung aller Art: Hosen, R\xF6cke, Jacken oder
+      M\xE4ntel. Unterw\xE4sche tragen die Menschen im Mittelalter dagegen nicht."
+  - MainImage: {fileID: 21300000, guid: 46fadc14649ec4c11b07e786e7650c74, type: 3}
+    Captions: Stadtkirche St. Marien in Bad Belzig, 13. Jahrhundert
+    RightWrongTitle: Richtig!
+    Title: Kirche
+    Description: "Die Kirche bildet das Zentrum des Lebens und kann t\xE4glich zur
+      Andacht aufgesucht werden. Sie bietet den Menschen Halt, Trost und den Glauben
+      an ein Paradies nach dem Tod. Zugleich ist sie eine Schule und versorgt Bed\xFCrftige.
+      Mittelalterliche Siedlungen entstehen meist um eine Kirche herum. Die Stra\xDFen
+      folgen dabei den naturr\xE4umlichen Gegebenheiten und verlaufen daher meist
+      in geschwungenen Linien."
+  - MainImage: {fileID: 21300000, guid: 6981dc995b76f4f6d89ab780bbcd79f1, type: 3}
+    Captions: "Hirten h\xFCten Vieh, Oberitalien, sp\xE4tes 14. Jahrhundert"
+    RightWrongTitle: Richtig!
+    Title: Viehweide
+    Description: "Viele B\xFCrger betreiben neben ihrem Handwerksberuf auch etwas
+      Landwirtschaft. Sie besitzen au\xDFerhalb der Stadt Land und haben auch Vieh.
+      Ihr Vieh halten sie zwar in der Stadt, aber tags\xFCber lassen sie es auf die
+      Weiden vor der Stadt treiben und von Hirten h\xFCten. Die Hirten werden f\xFCr
+      diese Aufgabe von der Stadt bezahlt. Weil die Hirten zu den wenig angesehenen
+      Bewohnern einer Stadt geh\xF6ren und auch nicht das B\xFCrgerrecht besitzen,
+      wohnen sie nahe der Stadtmauer."
+  - MainImage: {fileID: 21300000, guid: c42d916600ffe4d578c8cee7315d234d, type: 3}
+    Captions: Turm des Galgenbergs von Bad Freienwalde
+    RightWrongTitle: Richtig!
+    Title: "Richtst\xE4tte"
+    Description: "St\xE4dte wachen nicht nur \xFCber Handel und \xF6ffentliche Ordnung,
+      sie \xFCben auch die Gerichtsbarkeit \xFCber die Menschen aus. Auf dem Marktplatz
+      steht die Gerichtslaube, wo \xF6ffentlich Recht gesprochen wird. Bei schweren
+      Verbrechen wie Mord, Totschlag oder Diebstahl k\xF6nnen die Stadtrichter auch
+      Todesurteile f\xE4llen. Die Hinrichtung selbst findet au\xDFerhalb auf einer
+      Anh\xF6he statt. Eine Anh\xF6he namens Galgenberg befindet sich zum Beispiel
+      bei Bad Freienwalde. Heute steht dort ein Kriegerdenkmal aus dem sp\xE4ten
+      19. Jahrhundert."
+  - MainImage: {fileID: 21300000, guid: b54d81a50683746509e4a75012396a62, type: 3}
+    Captions: "Fleischermeister, fr\xFChes 16. Jahrhundert"
+    RightWrongTitle: Richtig!
+    Title: Fleischergasse
+    Description: "Im Mittelalter ist Fleisch f\xFCr die Ern\xE4hrung unverzichtbar.
+      Daher spielen die Fleischer auch eine wichtige politische Rolle in der Stadt.
+      H\xE4ufig bilden sie mit den B\xE4ckern, Schuhmachern und Tuchmachern das sogenannte
+      Viergewerk, aus dessen Reihen B\xFCrgermeister und Ratsleute gew\xE4hlt werden.
+      Die Zusammensetzung des Viergewerks variiert jedoch von Stadt zu Stadt. Da
+      das Schlachten und Zerlegen der Tiere mit Ger\xFCchen und gro\xDFen Mengen
+      an Abf\xE4llen verbunden ist, sind die Fleischer oft in einer einzigen Stra\xDFe
+      angesiedelt."
+  - MainImage: {fileID: 21300000, guid: 6733da96c994a4050b4d9eb5b86c175a, type: 3}
+    Captions: "Das Rathaus von J\xFCterbog entstand von 1285 bis 1510"
+    RightWrongTitle: Richtig!
+    Title: Rathaus
+    Description: "Das Rathaus befindet sich im Zentrum der Stadt am Marktplatz. Es
+      ist Sitz der Selbstverwaltung einer Stadt. B\xFCrgermeister und Ratsleute werden
+      von den wichtigsten Berufsgruppen der Stadt gestellt und gew\xE4hlt. Beim Rathaus
+      befindet sich auch die Stadtwaage, wo H\xE4ndler und\nMarktbesucher die in
+      der Stadt g\xFCltigen Ma\xDFe und Gewichte pr\xFCfen k\xF6nnen. Eines der \xE4ltesten
+      Rath\xE4user steht in J\xFCterbog. Dort kann auch die einstige Gerichtslaube
+      besichtigt werden."
+  - MainImage: {fileID: 21300000, guid: 3ccdad81d0d7f476cb1fc62d2a8fbb99, type: 3}
+    Captions: "Der Roland in Brandenburg vor dem altst\xE4dtischen Rathaus stand
+      urspr\xFCnglich vor dem neust\xE4dtischen Rathaus"
+    RightWrongTitle: Richtig!
+    Title: Marktplatz
+    Description: "Am Kreuzungspunkt der Fernstra\xDFen befindet sich der Marktplatz.
+      Hier bieten H\xE4ndler:innen in Buden oder Scharren ihre Waren feil. In den
+      H\xE4usern am Marktplatz wohnen auch die reichsten B\xFCrger. Auf dem Marktplatz
+      steht der Roland, eine mit Schwert bewehrte Ritterskulptur, die das Stadtrecht
+      symbolisiert. Mittelalterliche Rolandsfiguren haben sich in Brandenburg, Perleberg
+      und Prenzlau erhalten."
+  - MainImage: {fileID: 21300000, guid: 80da0068af399411a99a97acea93ec75, type: 3}
+    Captions: Badeszene, mittelalterliche Darstellung
+    RightWrongTitle: Richtig!
+    Title: Badehaus
+    Description: "Wasser gibt es in einer Stadt nur aus Brunnen und muss von dort
+      m\xFChsam in Eimern in die H\xE4user geschafft werden, was meist die Arbeit
+      von Frauen ist. Im Haus gibt es Wasser zum Waschen daher meist nur aus Sch\xFCsseln.
+      Um den ganzen K\xF6rper zu waschen, suchen die Menschen nahegelegene Fl\xFCsse
+      oder Seen auf oder das st\xE4dtische Badehaus. F\xFCr die K\xF6rperpflege stehen
+      hier Wasserbecken oder h\xF6lzerne Zuber bereit."
+  - MainImage: {fileID: 21300000, guid: a0001e76f020e4d12aa450dccda8c165, type: 3}
+    Captions: Das heutige Hospital zum Heiligen Geist in Luckau
+    RightWrongTitle: Richtig!
+    Title: Pesthaus
+    Description: "Die Ausbreitung der Pest ab der Mitte des 14. Jahrhunderts macht
+      es f\xFCr die St\xE4dte notwendig, Reisende mit Krankheitssymptomen vor den
+      Toren abzuweisen und in au\xDFerhalb gelegenen H\xE4usern zu pflegen. Diese
+      Leprosorien oder Pesth\xE4user werden von den Kirchen betrieben. Spit\xE4ler
+      in der Stadt k\xFCmmern sich dagegen um Alte und Arme oder Kranke mit weniger
+      bedrohlichen Krankheiten. Das 1361 gegr\xFCndete Hospital zum Heiligen Geist
+      in Luckau ist ein Beispiel f\xFCr eine F\xFCrsorgeanstalt innerhalb der Stadt.
+      Heute ist es eine Einrichtung der Altenpflege."
+  - MainImage: {fileID: 21300000, guid: debab2e814ec8450ca6c4e2557e55b3f, type: 3}
+    Captions: Blick in die Kanalisation von Berlin
+    RightWrongTitle: Leider falsch!
+    Title: "Kl\xE4rwerk"
+    Description: "Im Mittelalter landen M\xFCll und F\xE4kalien noch direkt auf der
+      Stra\xDFe. Wer sich Schuhe leisten kann, tr\xE4gt solche mit hohen Abs\xE4tzen.
+      Erst 1873 beginnt der Bau einer Kanalisation in Berlin, wenig sp\xE4ter auch
+      in Potsdam. Abw\xE4sser, die \xFCber die Kanalisation unterirdisch aus der
+      Stadt flie\xDFen, werden im Kl\xE4rwerk gereinigt und als Trinkwasser aufbereitet.
+      Eine Erfindung, die die Sauberkeit in der Stadt enorm verbessert und die \xDCbertragung
+      vieler Krankheiten sp\xFCrbar verringert."
+  - MainImage: {fileID: 21300000, guid: 323812384ae9d41d98595937ceffd8c7, type: 3}
+    Captions: "Das \u201ECoffebaum\u201C in Leipzig von 1694 ist eines der \xE4ltesten
+      Kaffeeh\xE4user in Europa"
+    RightWrongTitle: Leider falsch!
+    Title: Kaffeehaus
+    Description: "Dass ger\xF6stete und gemahlene Kaffeebohnen mit hei\xDFem Wasser
+      aufgegossen ein schmackhaftes und belebendes Getr\xE4nk ergeben, ist schon
+      im Mittelalter bekannt. Allerdings nur in Afrika und Arabien. In Europa kennt
+      der Mensch des Mittelalters Hei\xDFgetr\xE4nke nur als Arzneitees. Seinen Durst
+      l\xF6scht er mit d\xFCnnem Bier oder Wasser. Bis 1721 dauert es, bis in Berlin
+      das erste Kaffeehaus \xF6ffnet und der Kaffeegenuss auch in Brandenburg popul\xE4r
+      wird."
+  - MainImage: {fileID: 21300000, guid: aa377e0c9071b42d1b0aef277b293459, type: 3}
+    Captions: "Mit ledernen L\xF6scheimern bek\xE4mpfen B\xFCrger einen Stadtbrand"
+    RightWrongTitle: Leider falsch!
+    Title: Feuerwehr
+    Description: "Ausgebildete M\xE4nner, die Br\xE4nde l\xF6schen, gibt es schon
+      im antiken Rom. Eine Feuerwehr sucht man in der mittelalterlichen Stadt hingegen
+      vergebens. Hier m\xFCssen bei Feuer alle helfen, Spezialisten zur Brandbek\xE4mpfung
+      fehlen. Aber es gibt eine Wache, die vom h\xF6chsten Turm der Stadt vor Feinden
+      oder Br\xE4nden warnt."
